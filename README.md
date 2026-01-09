@@ -1,7 +1,7 @@
 # Hi, I'm Abdellatif Ben Mohamed 👋
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-![68747470733a2f2f6d656469612e74656e6f722e636f6d2f65656c31384f454e32674941414141642f6861636b65722d636f6d70757465722e676966](https://github.com/user-attachments/assets/1bbf9bc1-d6d3-4c1f-976c-980ec151a6d6)
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br> ![istockphoto-1356364287-612x612](https://github.com/user-attachments/assets/a14b6fcc-b430-4eac-b4c1-9263637363ad)
+
 
 
 
