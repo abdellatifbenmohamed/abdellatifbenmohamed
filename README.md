@@ -1,4 +1,4 @@
-#<img width="409" height="123" alt="images" src="https://github.com/user-attachments/assets/f36e11ba-4312-4ede-b52c-47bea23d5cc0" />
+<img width="409" height="123" alt="images" src="https://github.com/user-attachments/assets/f36e11ba-4312-4ede-b52c-47bea23d5cc0" />
 
 # Hi, I'm Abdellatif Ben Mohamed 👋
 # 💫 About Me:
