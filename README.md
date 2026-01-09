@@ -26,7 +26,8 @@
 <img width="820" height="488" alt="image" src="https://github.com/user-attachments/assets/48e70509-c13a-468e-8168-4552914d1f7a" />
 
 # Back-end developer
-<img width="1000" height="625" alt="image" src="https://github.com/user-attachments/assets/f4a9d584-6e22-4726-8fda-875fe3351ba2" />
+<img width="600" height="384" alt="backend" src="https://github.com/user-attachments/assets/b2bec0c3-7202-4487-8582-5b47eb09f836" />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdellatifbenmohamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
